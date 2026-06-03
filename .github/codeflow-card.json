@@ -1,0 +1,47 @@
+{
+  "version": 1,
+  "runs": [
+    {
+      "at": "2026-06-03T22:28:19.011Z",
+      "sha": "4c3a266af81521f67904a55b5ea886edc923bc10",
+      "pr": null,
+      "actor": "Animesh-86",
+      "files": 1,
+      "functions": 0,
+      "loc": 8,
+      "languages": 1,
+      "topLanguages": [
+        {
+          "ext": "md",
+          "pct": 100,
+          "lines": 8
+        }
+      ],
+      "dead": 0,
+      "deadPct": 0,
+      "circular": 0,
+      "godObjects": 0,
+      "avgCoupling": 0,
+      "securityIssues": 0,
+      "patterns": 0,
+      "duplicates": 0,
+      "layerViolations": 0,
+      "connections": 0,
+      "avgFnLines": 0,
+      "longestFn": 0,
+      "testFiles": 0,
+      "testRatio": 0,
+      "topFolders": [
+        {
+          "name": "root",
+          "count": 1
+        }
+      ],
+      "folders": 1,
+      "grade": "A",
+      "score": 100,
+      "topBlast": null,
+      "fragility": []
+    }
+  ]
+}
